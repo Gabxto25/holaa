@@ -1,0 +1,6 @@
+            <div id="botones-izquierda">
+                <button type="button" id="servicios" class="sombras" data-toggle="modal" data-target="#modalserv">Servicios</button>
+                <button type="button" id="clientes" class="sombras" data-toggle="modal" data-target="#modalcli">Clientes</button>
+                <button type="button" id="Mision_Vision" class="sombras" data-toggle="modal" data-target="#modalmv">Misión Visión</button>
+                <button type="button" id="valores" class="sombras" data-toggle="modal" data-target="#modalv">Valores</button>
+            </div>
